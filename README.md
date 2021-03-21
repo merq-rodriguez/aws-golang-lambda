@@ -1,4 +1,7 @@
 ## AWS Lambda function Golang
+
+Using `aws-go-dep`, is the Go template for serverless, tars is the service name which we are going to build. This command will locally create a serverless project.
+
 ### Hello
 
 ## Steps
